@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mwithalii
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Computer Science and DataScience
-- 💞️ I’m looking to collaborate on DataScience projects
+- 👀 A python Developer
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me diananyawira.dn15@gmail.com 
 
 <!---
